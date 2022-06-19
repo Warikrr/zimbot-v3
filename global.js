@@ -1,16 +1,16 @@
 //global
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮ARULLBOTZMD 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮sahrulwara62@gmail.com
+//▮WHATSAPP US : +6285822347348
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -20,5 +20,6 @@
 //┃
 //┃THANKS FOR CHOOSING ZIMBOT
 //┃THANKS TO DIKA ARDNT
+//┃THANKS TO ARULLOFC
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
